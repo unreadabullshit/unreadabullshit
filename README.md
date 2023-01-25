@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Who am i:
-> My name's Voitila Araújo and i'm something of a webdev myself
+==My name's **Voitila** Araújo and i'm something of a webdev myself==
 
 💡 Trying to learn every cool technology out there before some AI replaces me!<br>
 🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`<br>
