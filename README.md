@@ -4,7 +4,7 @@
 💡 Trying to learn every cool technology out there before some AI replaces me!<br>
 🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`<br>
 🌎 Made in Brazil 🇧🇷 (Pt-BR)<br>
-> Feel free to take a look at my [portifolio](https://voitaraujo.github.io) and contact me 
+> Feel free to take a look at my [portifólio](https://voitaraujo.github.io) and contact me 
 
 
 ## 🌐 Socials:
@@ -22,8 +22,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=voitaraujo&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
