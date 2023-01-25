@@ -1,5 +1,5 @@
-# 💫 About Me:
-Trying to learn every cool technology out there before some AI takes my job
+# 👨🏽‍💻 About Me:
+Trying to learn every cool technology out there before some AI replaces me!
 
 
 ## 🌐 Socials:
