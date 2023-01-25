@@ -1,9 +1,9 @@
 # 👨🏽‍💻 Who am i:
 > My name's Voitila Araújo and i'm something of a webdev myself
 
-💡 Trying to learn every cool technology out there before some AI replaces me!
-🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`
-🌎 Made in Brazil 🇧🇷 (Pt-BR)
+💡 Trying to learn every cool technology out there before some AI replaces me!<br>
+🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`<br>
+🌎 Made in Brazil 🇧🇷 (Pt-BR)<br>
 
 
 ## 🌐 Socials:
