@@ -2,7 +2,7 @@
 ### My name's **Voitila** **Araújo** and i'm something of a webdev myself
 
 💡 Trying to learn every cool technology out there before some AI replaces me!<br>
-🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`<br>
+🔎 Currently interrested on `Svelte`, `TailwindCSS`, `tRPC` and `Zod`<br>
 🏠 Living on Jundiaí - São Paulo<br>
 🌎 Made in Brazil 🇧🇷 (Pt-BR)<br>
 > Feel free to take a look at my [portifólio](https://voitaraujo.github.io/portifolio) and contact me!
