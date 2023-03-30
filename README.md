@@ -5,7 +5,7 @@
 🔎 Currently interrested on `Svelte`, `TailwindCSS`, `Stripe` and `Zod`<br>
 🏠 Living on Jundiaí - São Paulo<br>
 🌎 Made in Brazil 🇧🇷 (Pt-BR)<br>
-> Feel free to take a look at my [portifólio](https://voitaraujo.github.io) and contact me!
+> Feel free to take a look at my [portifólio](https://voitaraujo.github.io/portifolio) and contact me!
 
 
 ## 🌐 My socials
