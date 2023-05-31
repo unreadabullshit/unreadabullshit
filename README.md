@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Who am i
+# 👨🏽‍💻 Who am I
 ### My name's **Voitila** **Araújo** and i'm something of a webdev myself
 
 💡 Trying to learn every cool technology out there before some AI replaces me!<br>
