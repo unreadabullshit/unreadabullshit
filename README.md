@@ -5,7 +5,7 @@
 🔎 Currently interrested: `TailwindCSS`, `Framer Motion` && `Zod`<br>
 🏠 Living in Jundiaí - São Paulo<br>
 🌎 Brazil 🇧🇷 (Pt-BR)<br>
-> Feel free to take a look at my [portifólio](https://voitaraujo.github.io/portifolio) and contact me!
+> Feel free to take a look at my [portifólio](https://portifolio-v2-voitila.vercel.app/) and contact me!
 
 
 ## 🌐 My socials
