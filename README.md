@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Who am I
-### My name's **Voitila** **Araújo** and i'm something of a webdev myself
+### My name is **Voitila** **Araújo** and i'm something of a webdev myself
 
 💡 Trying to learn every cool technology out there before AI replaces me!<br>
 🔎 Currently interrested: `Svelte`<br>
