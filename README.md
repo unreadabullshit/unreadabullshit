@@ -2,7 +2,7 @@
 ### My name is **Voitila** **Araújo** and i'm something of a webdev myself
 
 💡 Trying to learn every cool technology out there before AI replaces me!<br>
-🔎 Currently interrested: `Svelte`<br>
+🔎 Currently interrested: `Astro`<br>
 🏠 Jundiaí - São Paulo<br>
 🌎 Brazil 🇧🇷 (pt-BR)<br>
 > Feel free to take a look at my [portifólio](https://voit.dev) and contact me!
