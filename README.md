@@ -1,8 +1,9 @@
-# 👨🏽‍💻 Who am I
-### My name is **Voitila** **Araújo** and i'm something of a webdev myself
+# Call me Voit
+
+### I'm something of a webdev myself
 
 💡 Trying to learn every cool technology out there before AI replaces me!<br>
-🔎 Currently interrested: `Astro`<br>
+🔎 Currently interrested: `Zig`<br>
 🏠 Jundiaí - São Paulo<br>
 🌎 Brazil 🇧🇷 (pt-BR)<br>
 > Feel free to take a look at my [portifólio](https://voit.dev) and contact me!
